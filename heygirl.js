@@ -36,7 +36,7 @@ var myGosling = [
 
 
 
-new Gosling("horizontal", "http://bonnyguo.github.io/heygirl/img/a.png").resize(0),
+new Gosling("horizontal", "http://bonnyguo.github.io/heygirl/img/a.png").,
     new Gosling("square", "http://bonnyguo.github.io/heygirl/img/b.jpg"),
     new Gosling("square", "http://bonnyguo.github.io/heygirl/img/c.jpg"),
     new Gosling("horizontal", "http://bonnyguo.github.io/heygirl/img/d.jpg"),
