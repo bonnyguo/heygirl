@@ -37,11 +37,11 @@ var myGosling = [
 
 
 new Gosling("horizontal", "http://bonnyguo.github.io/heygirl/img/a.png"),
-    new Gosling("square", "http://bonnyguo.github.io/heygirl/img/b.png"),
-    new Gosling("square", "http://bonnyguo.github.io/heygirl/img/c.png"),
-    new Gosling("horizontal", "http://bonnyguo.github.io/heygirl/img/d.png"),
-    new Gosling("vertical", "http://bonnyguo.github.io/heygirl/img/e.png"),
-    new Gosling("vertical", "http://bonnyguo.github.io/heygirl/img/f.png")
+    new Gosling("square", "http://bonnyguo.github.io/heygirl/img/b.jpg"),
+    new Gosling("square", "http://bonnyguo.github.io/heygirl/img/c.jpg"),
+    new Gosling("horizontal", "http://bonnyguo.github.io/heygirl/img/d.jpg"),
+    new Gosling("vertical", "http://bonnyguo.github.io/heygirl/img/e.jpg"),
+    new Gosling("vertical", "http://bonnyguo.github.io/heygirl/img/f.jpg")
 ]
 
 function imageRatio(image) {
